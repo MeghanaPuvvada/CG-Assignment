@@ -186,9 +186,9 @@ if(startFlag==1) 			      //to start game
  
    	  glColor3f(1.0,100.0/256.0, 0.0);    
 	  glRectf(0,0,1280,1024); 
-          glColor3f(220.0/256,150.0/256.0,0);  //b1    
+          glColor3f(100.0/256,150.0/256.0,0);  //b1    
 	  glRectf(50,50,880,700);   
-	  glColor3f(0,100.0/256.0,0);    //b2    
+	  glColor3f(0,15.0/256.0,0);    //b2    
 	  glRectf(70,70,860,680); 
 
 
